@@ -1,6 +1,6 @@
 # hernalytics-Api
 
-Consume REST APIs in React
+Consume REST APIs in React with Jest
 
 Overview
 
