@@ -24,11 +24,14 @@ Instructions
 
 
 Clone the repository to your local machine
+
 Run npm install to install all the required dependencies
+
 Use the endpoint described above to fetch the data from the API and display it on your webpage
 The top section should display the top 3 candidates, their political party, and the total number of votes.
 The map section should highlight the breakdowns of the votes per state for only the leading party.
 The bottom section should highlight the breakdown of the votes for the top 3 parties in each state.
+
 Run the project using npm start
 
 Requirements
